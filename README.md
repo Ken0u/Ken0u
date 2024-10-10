@@ -6,3 +6,5 @@ UW CE student.
 
 # Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![snake gif](https://github.com/Ken0u/Ken0u/blob/output/github-contribution-grid-snake.svg)
